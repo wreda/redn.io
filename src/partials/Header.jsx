@@ -23,7 +23,7 @@ function Header() {
           {/* Site branding */}
           <div className="flex-shrink-0 mr-4">
             {/* Logo */}
-            <Link to="/" className="block" aria-label="Cruip">
+            <Link to="#home" className="block" aria-label="Cruip">
   <h1 className="text-2xl md:text-2xl font-extrabold leading-tighter tracking-tighter mb-4"> 
 	    <span className="bg-clip-text text-transparent bg-gradient-to-r from-red-500 to-red-500">RedN</span>
 	  </h1>
